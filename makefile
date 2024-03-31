@@ -18,4 +18,4 @@ setup:
 
 start:
 	./scripts/active_conda_env.sh
-	flask --app main run
+	python main.py
